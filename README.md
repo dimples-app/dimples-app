@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dimples-app&layout=compact)
 
+#### SF_Moutainer
+
+<img src="SF_Moutainer.png" alt="drawing" width="250"/>
 
 
-![Moutainer](https://github.com/dimples-app/dimples-app/blob/main/SF_Moutainer.png)
