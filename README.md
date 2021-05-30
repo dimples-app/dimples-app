@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 #### SF_Moutainer
 
-<img src="SF_Moutainer.png" alt="drawing" width="250"/>
+<img src="SF_Moutainer.png" alt="drawing" width="350"/>
 
 
