@@ -1,5 +1,9 @@
 #### Hey 👋 , I'm Dimple
-- 🌱 I’m currently working on MERN stack and PERN stack Apps
+I am Software Engineer focusing on Front End and Back-End development.
+
+---
+
+- 🌱 I’m currently working on application development using MERN stack and PERN stack 
 - 💞️ I’m looking to collaborate on building applications with purpose and passion
 
 
