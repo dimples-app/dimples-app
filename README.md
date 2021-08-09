@@ -1,7 +1,10 @@
-#### Hey 👋 , I'm Dimple
-I am Software Engineer focusing on Front End and Back-End development.
+#### Hey 👋 , 
 
 ---
+<img src="my_banner.png" alt="mybanner" width="1500" height="250"/>
+
+---
+I am Software Engineer focusing on Front End and Back-End development.
 
 - 🌱 I’m currently working on application development using MERN stack and PERN stacks 
 - 💞️ I’m looking to collaborate on building applications with purpose and passion
