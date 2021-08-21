@@ -1,7 +1,7 @@
 #### Hey 👋 , 
 
 ---
-<img src="my_banner.png" alt="mybanner" width="1500" height="250"/>
+<img src="mybanner.png" alt="mybanner" width="1500" height="250"/>
 
 ---
 I am Software Engineer focusing on Front End and Back-End development.
