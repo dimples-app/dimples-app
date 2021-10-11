@@ -4,10 +4,10 @@
 <img src="mybanner.png" alt="mybanner" width="1500" height="250"/>
 
 ---
-I am Software Engineer focusing on Front End and Back-End development.
+I am Software Engineer passionate about designing, developing and delivering quality softwares.
 
-- 🌱 I’m currently working on application development using MERN and PERN stacks
-- 💞️ I’m looking to collaborate on building applications with purpose and passion
+- 🌱 I’m currently learning application development using MERN and PERN stacks
+- 💞️ I like to play around with new technologies and tools.
 
 
 <!---
