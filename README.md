@@ -6,9 +6,10 @@
 ---
 I am Software Engineer passionate about designing, developing and delivering quality softwares.
 
+<!---
 - 🌱 I’m currently learning application development using MERN and PERN stacks
 - 💞️ I like to play around with new technologies and tools.
-
+--->
 
 <!---
 dimples-app/dimples-app is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
